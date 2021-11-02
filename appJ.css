@@ -1,0 +1,19 @@
+#items{
+
+}
+
+.item{
+    padding: 2rem;
+    border: 1px solid black;
+}
+
+.item img{
+    width: 25rem;
+}
+
+button{
+    width: 100%;
+    height: 3rem;
+    background: greenyellow;
+    cursor: pointer;
+}
